@@ -1,1 +1,3 @@
 Testando o Git
+
+1. Estamos gerando a primeira release no código - v.1.0
