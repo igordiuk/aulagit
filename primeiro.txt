@@ -1,3 +1,5 @@
 Testando o Git
 
-1. Estamos gerando a primeira release no código - v.1.0
+1. Estamos gerando a primeira release no código - v.0.1
+
+2. Comecei a trabalhar na release do código v.0.1.1 - primeiro commit…
